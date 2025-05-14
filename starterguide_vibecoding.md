@@ -1,5 +1,7 @@
 ## A No-Coder’s Guide to Starting Vibe Coding
 
+Tp srart with Cursor
+
 You don’t need to know how to code.
 You don’t need to learn a language.
 You don’t need to understand system design.
@@ -80,11 +82,7 @@ Now:
 
 You’ll start hitting small errors—and that’s where your **problem-solving muscle** kicks in.
 
-Debug it like you learned in Step 5.
-
----
-
-
+Debug it using Step 5.
 
 ---
 
